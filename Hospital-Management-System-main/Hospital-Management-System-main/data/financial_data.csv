@@ -1,0 +1,10 @@
+Patient,Transaction Type,Amount,Balance
+Patient,Transaction Type,Amount,Balance
+John Doe,Deposit,500,500
+John Doe,Appointment Payment,-200,300
+Jane Smith,Deposit,1000,1000
+Jane Smith,Medication Payment (Aspirin),-100,900
+John Doe,Medication Payment (Ibuprofen),-150,150
+Jane Smith,Appointment Payment,-200,700
+John Doe,Deposit,300,450
+Jane Smith,Medication Payment (Paracetamol),-80,620

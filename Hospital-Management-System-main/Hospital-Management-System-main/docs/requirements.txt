@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+plotly
+jsonschema
+requests
+pyreadline3

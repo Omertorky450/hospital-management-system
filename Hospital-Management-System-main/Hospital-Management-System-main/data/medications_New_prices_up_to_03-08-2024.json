@@ -1,0 +1,42 @@
+{
+  "Aspirin": {
+    "price": 10.0,
+    "stock": 100
+  },
+  "Ibuprofen": {
+    "price": 15.0,
+    "stock": 50
+  },
+  "Paracetamol": {
+    "price": 8.0,
+    "stock": 200
+  },
+  "Amoxicillin": {
+    "price": 20.0,
+    "stock": 75
+  },
+  "Metformin": {
+    "price": 12.0,
+    "stock": 60
+  },
+  "Lisinopril": {
+    "price": 18.0,
+    "stock": 40
+  },
+  "Simvastatin": {
+    "price": 22.0,
+    "stock": 30
+  },
+  "Omeprazole": {
+    "price": 14.0,
+    "stock": 80
+  },
+  "Levothyroxine": {
+    "price": 25.0,
+    "stock": 20
+  },
+  "Atorvastatin": {
+    "price": 30.0,
+    "stock": 25
+  }
+}
